@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EL-Krecksito
-- 👀 I’m interested in Programation
-- 🌱 I’m currently learning Python
+#- 👋 Hi, I’m @EL-Krecksito
+#- 👀 I’m interested in Programation
+#- 🌱 I’m currently learning JavaScript
 
 <!---
 EL-Krecksito/EL-Krecksito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
